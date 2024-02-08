@@ -16,6 +16,7 @@ body {
   font-family: sans-serif;
   font-size: 1.2rem;
   background-image: url('love.png');
+  background-size: cover;
 
 }
 
