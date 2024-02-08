@@ -21,9 +21,9 @@ body {
 }
 
 header {
-  background: rgba(0,0,0,0);
+  background: #FFECFD;
   color: black;
-  padding: 1rem;
+  padding: 3rem;
   text-align: center;
 }
 
