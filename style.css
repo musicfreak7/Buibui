@@ -20,12 +20,7 @@ body {
 
 }
 
-header {
-  background: #FFECFD;
-  color: black;
-  padding: 3rem;
-  text-align: center;
-}
+
 
 main {
   display: flex;
