@@ -22,7 +22,7 @@ body {
 header {
   background: rgba(255,255,255,0.6);
   color: black;
-  padding: 0.5rem;
+  padding: 0.2rem;
   text-align: center;
 }
 
@@ -65,8 +65,10 @@ button:hover {
 }
 
 #no-button {
-  background-color: #e74c3c;
-  color: #fff;
+  background-color: #fff;
+  color: #000000;
+ 
+  
 }
 
 #no-button:hover {
