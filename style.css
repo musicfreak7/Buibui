@@ -19,7 +19,12 @@ body {
   background-size: cover;
 
 }
-
+header {
+  background: white;
+  color: black;
+  padding: 3rem;
+  text-align: center;
+}
 
 
 main {
